@@ -1,0 +1,184 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>ISLAM</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>PLEASE STOP</strong> PLAYING WITH TIME </a>
+									<ul class="icons">
+										<li><a href="https://www.linkedin.com/in/zahrotul-nailul-izah-6479b2125/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+										<li><a href="https://github.com/zahrotulnailulizah" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+								</header>
+
+								<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>ISLAM</h1>
+										</header>
+										<p> This is may thought about ISLAM. </p>
+                    <p> Menjadi seorang muslim sangatlah susah tapi ketika tauhid kita berada paling puncak maka Allah S.W.T tak akan segan-segan untuk mengabulkan apapun yang kita inginkan.
+
+                        Tauhid disini berarti kita yakin bahwa Allah S.W.T ada dan kita percaya lebih dari apapun.
+
+                        Saat kita sholat kita diharuskan untuk mengingat Allah S.W.T, padahal kita sendiri tidak mengetahui seperti apa Allah S.W.T . Bahkan Rasullulah saat kembali dari langit tidak menjelaskan seperti apa, ada kemungkinan mungkin Beliau tidak bertemu secara langsung namun berhasil berada pada Arsy Allah S.W.T 
+                        yang bahkan malaikat jibril tidak mampu untuk kesana. Lalu seperti apa Allah S.W.T ?
+
+                        Saat kita berpikir kalau kita ingin menciptakan sesuatu pasti hal tersebut ada beberapa kriteria:
+                          1. Benda/makhluk itu mirip sekali dengan kita sehingga kita akan membuatnya 1 persis tanpa ada tandingan, kalaupun membuat 
+                          dalam jumlah banyak pastilah benda tersebut persis sama tanpa berbeda sedikitpun hanya disini jumlahnya dalam banyak
+                          2. Benda/makhluk tersebut berbeda dengan kita sehingga kita menciptakan benda dalam berbagai hal
+
+                        Kalau kita berpikir dari itu, dilihat dari no 2 didunia ini belum ada 1 pun hal yg berbeda, semua memiliki golongan dan 
+                        golongan itu memiliki bentuk, sifat, dll sama, misalkan manusia yaa bentuknya sama namun beragam, jin juga begitu, malaikat 
+                        pun juga begitu sehingga dapat dipastikan Allah S.W.T tidak sama dengan makhluk manapun karena Allah S.W.T tidak laki-laki
+                        ataupun perempuan karena semua makhluk Allah S.W.T dibedakan dalam 2 golongan.
+
+                        Kalau kita berpikir dari no 1, berarti kita belum tau seperti apa Allah S.W.T itu sebenarnya, padahal kita diharuskan 
+                        saat sholat harus mengingat Allah S.W.T . Dan manusia kebanyakan dapat berpikir secara imajinasi lalu imajinasi seperti 
+                        apa yang dimaksud ? Apakah harus selalu membayangkan Ka'bah sebagai tempat yang langsung tertuju pada Arsy Allah S.W.T ? 
+                        Mungkin hal tersebut dapat dibenarkan, namun jika dengan mengingat Ka'bah sebagai Allah S.W.T maka hal itu disalahkan. 
+                        Ka'bah hanya berperan sebagai pusat ibadah sholat semua muslim bukan Allah S.W.T . Lalu seperti apa Allah S.W.T ? Itulah 
+                        hal yang akan menjadi pertanyaanku. Akan kutuliskan selanjutnya kalau aku mengetahui jawabanya.<p>
+
+									</div>
+									<a href="#" class="image object">
+										<img src="images/pic52.jpg" alt="" />
+									</a>
+								</section>
+
+							<!-- Blockquote -->
+							<h3>Blockquote</h3>
+							<blockquote>
+								Because of INTJ's open mindedness, willpower, independence,
+								confidence, and planning abilities, they are capable of doing
+								anything they set their minds to. Skilled at hacking anything
+								life throws their way, INTJ are able to break down and learn from 
+								almost any system. They then use the ideas found there
+								whereever they're needed. INTJ tend to have their pick of jobs,
+								from IT system designers to business organizers.  </blockquote>
+
+						</section> 
+
+								<!-- Send -->
+								<h3>SEND</h3>
+
+								<form method="post" action="#">
+									<div class="row gtr-uniform">
+										<div class="col-6 col-12-xsmall">
+											<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+										</div>
+										<div class="col-6 col-12-xsmall">
+											<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+										</div>
+										<!-- Break -->
+										<div class="col-12">
+											<select name="demo-category" id="demo-category">
+												<option value="">- Category -</option>
+												<option value="1">Ask</option>
+												<option value="1">Advice</option>
+											</select>
+										</div>
+										<!-- Break -->
+										<div class="col-6 col-12-small">
+											<input type="checkbox" id="demo-copy" name="demo-copy">
+											<label for="demo-copy">Email me a copy</label>
+										</div>
+										<!-- Break -->
+										<div class="col-12">
+											<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+										</div>
+										<!-- Break -->
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" value="Send Message" class="primary" /></li>
+												<li><input type="reset" value="Reset" /></li>
+											</ul>
+										</div>
+									</div>
+								</form>
+
+						</div>
+					</div> 
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+								<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="certifications.html">Certifications</a></li>
+										<li><a href="projects.html">Projects</a></li>
+										<li>
+											<span class="opener">Articels</span>
+											<ul>
+												<li><a href="website.html">Website</a></li>
+											<!-- 	<li><a href="#">Programming</a></li>
+												<li><a href="#">Electronic</a></li>
+												<li><a href="#">Website</a></li>
+											</ul> I'll edit this out later -->
+								</nav>
+
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Hello, I hope everyone gain happiness. If you want to ask or contact me, 
+										please contact me everytime. You can get in touch with me from the information below. 
+										Thank you so much for visited my website...</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">zahrotulnailulizah@protonmail.ch</a></li>
+										<li class="icon solid fa-phone">(62) 857-074-351-01</li>
+										<li class="icon solid fa-home">Mancilan Mojoagung, 61482<br />
+										Jombang, East Java, Indonesia</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
